@@ -1,0 +1,6 @@
+framework module Pods_FindStarbucks {
+  umbrella header "Pods-FindStarbucks-umbrella.h"
+
+  export *
+  module * { export * }
+}
