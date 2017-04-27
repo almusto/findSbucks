@@ -88,6 +88,7 @@
 		AA3FF3381E8DA8930007CC05 /* FindStarbucks */ = {
 			isa = PBXGroup;
 			children = (
+				AAD62BB01EB27E81001818C1 /* New Group */,
 				AA3FF3501E8DAF490007CC05 /* Models */,
 				AA3FF3521E8DAF770007CC05 /* Views */,
 				AA3FF3531E8DAF890007CC05 /* Controllers */,
@@ -99,9 +100,6 @@
 		AA3FF3501E8DAF490007CC05 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				AA3FF35A1E8ED1F30007CC05 /* Secrets.swift */,
-				AA3FF34B1E8DA8AA0007CC05 /* CoreDataStack.swift */,
-				AA3FF3561E8EB1E00007CC05 /* ApiManager.swift */,
 			);
 			name = Models;
 			sourceTree = "<group>";
@@ -109,6 +107,9 @@
 		AA3FF3511E8DAF570007CC05 /* Utility */ = {
 			isa = PBXGroup;
 			children = (
+				AA3FF35A1E8ED1F30007CC05 /* Secrets.swift */,
+				AA3FF34B1E8DA8AA0007CC05 /* CoreDataStack.swift */,
+				AA3FF3561E8EB1E00007CC05 /* ApiManager.swift */,
 				AA3FF34D1E8DA8FE0007CC05 /* StarbucksModel.xcdatamodeld */,
 				AA3FF3451E8DA8930007CC05 /* Info.plist */,
 				AA3FF3401E8DA8930007CC05 /* Assets.xcassets */,
@@ -133,6 +134,13 @@
 				AA3FF3391E8DA8930007CC05 /* AppDelegate.swift */,
 			);
 			name = Controllers;
+			sourceTree = "<group>";
+		};
+		AAD62BB01EB27E81001818C1 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
